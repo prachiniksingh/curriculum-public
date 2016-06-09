@@ -123,3 +123,4 @@ Once you commit to this, **stick with it**. Apply every day and reach out every 
   - Re-write the cover letter to get more practice.
 - [Copy this spreadsheet](https://docs.google.com/spreadsheets/d/12WvdOVOyebEY4fyMSrp1ypunE_W8quml9h6KENeVceQ/copy) to track your progress.
   - Share the spreadsheet with your mentor.
+- Add yourself to our [Job-Seeking Student List](https://www.bloc.io/resources/job-seeking-student-directory).
